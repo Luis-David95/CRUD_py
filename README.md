@@ -231,5 +231,6 @@ To read more detailed descriptions, go to the <a href="https://igorbenav.github.
 
 ## Contact
 
-Igor Magalhaes – [@igormagalhaesr](https://twitter.com/igormagalhaesr) – igormagalhaesr@gmail.com
-[github.com/igorbenav](https://github.com/igorbenav/)
+Luis David– luisd.trivino@gmail.com
+[github.com](https://github.com/Luis-David95/)
+[telegram](https://t.me//luisdavid011012/)
